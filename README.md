@@ -1,3 +1,6 @@
+25
+
+h
 [![Profile Views](https://komarev.com/ghpvc/?username=garudadigitalsolutions2026-pixel&color=0e75b6&style=flat)](https://github.com/garudadigitalsolutions2026-pixel)
 
 <div align="center">
@@ -49,13 +52,9 @@ I'm **Datta Eswar Tangeti**, the **CEO and Founder** of **Garuda Digital Solutio
 
             ---
 
-            ## 🌐 Connect With Me
-
+## 🌐 Connect With Me
             [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/datta-eswar-tangeti-ab88641b1/)
-            [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@garudadigitalsolutions)
-            [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@garudadigitalsolutions)
-            [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/garudadigitalsolutions)
-
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gdsvizag?htm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
             ---
 
             ## 📊 GitHub Statistics
